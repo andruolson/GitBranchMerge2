@@ -1,2 +1,3 @@
 Hello World!
 Class Test
+Line three added a new feature
